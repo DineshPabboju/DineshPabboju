@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dinesh040805@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kIfcVBOqPO65qcF5W-Iep4UkB0lI0ZWK/view?usp=drive_link](https://drive.google.com/file/d/1kIfcVBOqPO65qcF5W-Iep4UkB0lI0ZWK/view?usp=drive_link)
+- 📄 My Resume [https://drive.google.com/file/d/1kIfcVBOqPO65qcF5W-Iep4UkB0lI0ZWK/view?usp=drive_link](https://drive.google.com/file/d/1kIfcVBOqPO65qcF5W-Iep4UkB0lI0ZWK/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
