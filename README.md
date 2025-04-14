@@ -27,4 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshpabboju&show_icons=true&locale=en" alt="dineshpabboju" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshpabboju&" alt="dineshpabboju" /></p>
-](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1zi7sbiG2M26yMP3YZSKHP&ust=1744697194052000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIi8veXt1owDFQAAAAAdAAAAABAE)
+
