@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Subheading -->
   <a href="https://github.com/DineshPabboju">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable,+high-performance+web+apps;Python+•+FastAPI+•+React.js+•+TypeScript;500%2B+DSA+Problems+Solved+Across+Platforms;Open+Source+Contributor+%40+GSSOC+'25;Passionate+about+clean+and+maintainable+code." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable,+high-performance+web+apps;Python+%7C+FastAPI+%7C+React.js+%7C+TypeScript;500%2B+DSA+Problems+Solved+Across+Platforms;Open+Source+Contributor+%40+GSSOC+%2725;Passionate+about+clean+and+maintainable+code." alt="Typing SVG" />
   </a>
 
   <p align="center">
