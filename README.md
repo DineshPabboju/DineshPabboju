@@ -228,6 +228,14 @@ seeking: Entry-level Software Engineer role
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
+
+  <!-- GitHub Space Shooter Contribution Game -->
+  <a href="https://github.com/DineshPabboju">
+    <img src="game.gif" alt="Dinesh Pabboju's GitHub Space Shooter Contribution Graph" width="100%" />
+  </a>
+
+  <br/><br/>
+
   <table border="0">
     <tr>
       <td width="50%" align="center">
