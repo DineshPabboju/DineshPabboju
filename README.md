@@ -65,7 +65,7 @@ core_strengths:
   - Data Structures & Algorithms (500+ problems solved)
   - Open Source Collaboration (GSSOC '25)
 seeking: Entry-level Software Engineer role
-
+```
 ### 🛠️ Technical Skills
 
 <table width="100%">
