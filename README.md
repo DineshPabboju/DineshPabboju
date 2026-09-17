@@ -66,15 +66,6 @@ core_strengths:
   - Open Source Collaboration (GSSOC '25)
 seeking: Entry-level Software Engineer role
 ```
-
-- 🎓 **Education:** Pursuing B.Tech in Computer Science & Engineering (Data Science) at **CMR Institute of Technology**, Hyderabad.
-- 💼 **Open Source:** Selected as an **Open Source Contributor at GirlScript Summer of Code (GSSOC) 2025**, collaborating in distributed teams, managing feature branches, and submitting production pull requests.
-- 💡 **Problem Solving:** Solved **500+ DSA problems** across LeetCode, CodeChef, and GeeksforGeeks.
-- 🚀 **Passion:** Building scalable, user-focused applications with modern frontend frameworks and robust Python backends.
-- ⚡ **Philosophy:** *"First, solve the problem. Then, write the clean, efficient code."*
-
----
-
 ### 🛠️ Technical Skills
 
 <table width="100%">
