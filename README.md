@@ -138,10 +138,11 @@ seeking: Entry-level Software Engineer role
 
 ---
 
-### 🚀 Featured Projects
+<!-- ### 🚀 Featured Projects
 
 <table width="100%">
-  <tr>
+ --->
+  <!-- <tr>
     <td width="33%" valign="top">
       <h4 align="center">💼 folio — Job Application Tracker</h4>
       <p align="center">
@@ -191,11 +192,11 @@ seeking: Entry-level Software Engineer role
       </ul>
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 
-### 🏆 Achievements & Open Source
+<!-- ### 🏆 Achievements & Open Source
 
 - 🌟 **Open Source Contributor @ GirlScript Summer of Code (GSSOC) 2025:** Contributed to open-source codebases by developing in feature branches, solving open issues, raising PRs, and collaborating with distributed teams in an agile Git workflow.
 - 💡 **500+ DSA Problems Solved:** Consistently solved 500+ Data Structures and Algorithms problems across [LeetCode](https://leetcode.com/u/22r01a6745), [CodeChef](https://codechef.com/users/ds_22r01a6745), and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/dinesh22r01a6745), mastering problem-solving in Arrays, Trees, Graphs, DP, and System Design concepts.
@@ -214,7 +215,7 @@ seeking: Entry-level Software Engineer role
 - ☕ **Java (Basic) Certificate** – *HackerRank*
 - 🚀 **Postman API Fundamentals Student Expert Badge** – *Postman*
 
----
+--- -->
 
 ### 📊 GitHub Activity & Analytics
 
